@@ -1,6 +1,9 @@
 {
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
